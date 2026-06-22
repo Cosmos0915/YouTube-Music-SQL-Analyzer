@@ -1,6 +1,6 @@
 # YouTube Music Data Analysis using SQL
 
-![](https://github.com/Harshal0606/YouTube-Music-Analysis/blob/main/YouTube_Logo.png)
+![](https://github.com/TharaBhaiDoraemon/YouTube-Music-Analysis/blob/main/YouTube_Logo.png)
 
 ## Overview
 This project performs an in-depth analysis of YouTube music video data using SQL.
